@@ -1,0 +1,2 @@
+# Variables locales de Docker Compose (cada máquina tiene su UID/GID)
+.env
