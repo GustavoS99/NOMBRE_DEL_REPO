@@ -1,4 +1,4 @@
-# NOMBRE_DEL_PROYECTO
+# Proyecto Laravel 13
 
 Aplicación web con autenticación de usuarios construida con Laravel 13, con un entorno de desarrollo completamente dockerizado: un solo comando levanta el servidor web, PHP y la base de datos.
 
